@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "mdtc",
+	"version": "${version}",
+	"name": "Mdtc",
+	"description": "Modern technologies of Minecraft",
+	"authors": [
+		"青葙子_celoregen"
+	],
+	"contact": {
+		"homepage": "http://mdtc.cc/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "Others",
+	"icon": "assets/mdtc/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"mc.mdtc.Mdtc"
+		],
+		"fabric-datagen": [
+			"mc.mdtc.MdtcDataGenerator"
+		],
+		"client": [
+			"mc.mdtc.MdtcClient"
+		]
+	},
+	"mixins": [
+		"mdtc.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.14",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
