@@ -1,3 +1,16 @@
 {
-  "item.mdtc.lead_ingot": "铅锭"
+  "item.mdtc.raw_aluminum": "粗铝",
+  "item.mdtc.raw_lead": "粗铅",
+  "item.mdtc.raw_silver": "粗银",
+  "item.mdtc.raw_tin": "粗锡",
+  "item.mdtc.raw_tungsten": "粗钨",
+  "item.mdtc.raw_uranium": "粗铀",
+  "item.mdtc.raw_zinc": "粗锌",
+
+  "item.mdtc.aluminum_ingot": "铝锭",
+  "item.mdtc.lead_ingot": "铅锭",
+  "item.mdtc.silver_ingot": "银锭",
+  "item.mdtc.tin_ingot": "锡锭",
+  "item.mdtc.tungsten_ingot": "钨锭",
+  "item.mdtc.zinc_ingot": "锌锭"
 }

@@ -1,3 +1,16 @@
 {
-  "item.mdtc.lead_ingot": "Lead Ingot"
+  "item.mdtc.raw_aluminum": "Raw Aluminum",
+  "item.mdtc.raw_lead": "Raw Lead",
+  "item.mdtc.raw_silver": "Raw Silver",
+  "item.mdtc.raw_tin": "Raw Tin",
+  "item.mdtc.raw_tungsten": "Raw Tungsten",
+  "item.mdtc.raw_uranium": "Raw Uranium",
+  "item.mdtc.raw_zinc": "Raw Zinc",
+
+  "item.mdtc.aluminum_ingot":"Aluminum Ingot",
+  "item.mdtc.lead_ingot": "Lead Ingot",
+  "item.mdtc.silver_ingot": "Silver Ingot",
+  "item.mdtc.tin_ingot": "Tin Ingot",
+  "item.mdtc.tungsten_ingot": "Tungsten Ingot",
+  "item.mdtc.zinc_ingot": "Zinc Ingot"
 }
