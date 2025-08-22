@@ -16,6 +16,8 @@ public class ModItems {
     public static final Item TUNGSTEN_INGOT = registerItems("tungsten_ingot" , new Item(new Item.Settings()));       //钨锭
     public static final Item ZINC_INGOT = registerItems("zinc_ingot" , new Item(new Item.Settings()));               //锌锭
     //类锭级产物
+    public static final Item URANIUM_235 = registerItems("uranium_235" , new Item(new Item.Settings()));             //U235
+    public static final Item URANIUM_238 = registerItems("uranium_238" , new Item(new Item.Settings()));             //U238
 
     //粗矿石
     public static final Item RAW_ALUMINUM =registerItems("raw_aluminum" , new Item(new Item.Settings()));            //粗铝

@@ -1,5 +1,6 @@
 package mc.mdtc;
 
+import mc.mdtc.Item.ModItemGroups;
 import mc.mdtc.Item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
@@ -22,5 +23,6 @@ public class Mdtc implements ModInitializer {
 
 		LOGGER.info("***MDTC初始化开始***");
 		ModItems.registerModItems();
+        ModItemGroups.regesterItemGroups();
     }
 }
